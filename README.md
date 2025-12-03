@@ -12,7 +12,7 @@
 
  
 About Me
-Hi, I'm Mohadeb Chandra Pal.I am a motivated learner currently focused on MERN stack backend development. I have a solid understanding of computer basics along with practical skills in MS Word, Excel, and general hardware knowledge. I learn new tools and technologies very quickly and adapt easily to any work environment. I enjoy problem-solving, exploring new skills, and continuously improving myself. Outside of work, I love traveling and discovering new places.
+Hi, I'm Mohadeb Chandra Pal. I am a motivated learner currently focused on MERN stack backend development. I have a solid understanding of computer basics along with practical skills in MS Word, Excel, and general hardware knowledge. I learn new tools and technologies very quickly and adapt easily to any work environment. I enjoy problem-solving, exploring new skills, and continuously improving myself. Outside of work, I love traveling and discovering new places.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohadeb.pal.186) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohadeb.pal.186) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohadeb-chandrapall-476a11390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MChandrapall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohadebchandrapall@gmail.com) 
