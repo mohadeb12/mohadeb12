@@ -9,6 +9,8 @@
 - 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code
+
+ 
 About Me
 Hi, I'm Mohadeb Chandra Pal.I am a motivated learner currently focused on MERN stack backend development. I have a solid understanding of computer basics along with practical skills in MS Word, Excel, and general hardware knowledge. I learn new tools and technologies very quickly and adapt easily to any work environment. I enjoy problem-solving, exploring new skills, and continuously improving myself. Outside of work, I love traveling and discovering new places.
 
